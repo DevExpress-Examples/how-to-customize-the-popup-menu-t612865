@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/PopupMenuShowing/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PopupMenuShowing/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/PopupMenuShowing/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/PopupMenuShowing/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/PopupMenuShowing/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/PopupMenuShowing/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to customize the popup menu
 
