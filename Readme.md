@@ -4,19 +4,21 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 [![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
+# WPF PDF Viewer - Customize the Popup Menu
+
+This example customizes the page content popup menu - removes specific items and adds the "Save As…"  item. 
+
 <!-- default file list -->
-*Files to look at*:
+## Files to Look At
 
-* [MainWindow.xaml](./CS/PopupMenuShowing/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PopupMenuShowing/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/PopupMenuShowing/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/PopupMenuShowing/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
 <!-- default file list end -->
-# How to customize the popup menu
 
+## Documentation
 
-This example shows how to customize the page content popup menu - remove specific items and add the "Save As…"  item.  <br><br>To do this, handle the <a href="https://documentation.devexpress.com/WPF/DevExpress.Xpf.PdfViewer.PdfViewerControl.PopupMenuShowing.event">PdfViewerControl.PopupMenuShowing</a> event and use the <a href="https://documentation.devexpress.com/WPF/DevExpress.Xpf.PdfViewer.PopupMenuShowingEventArgs.Actions.property">PopupMenuShowingEventArgs.Actions</a> property.
-
-<br/>
-
+- [PdfViewerControl.PopupMenuShowing](https://documentation.devexpress.com/WPF/DevExpress.Xpf.PdfViewer.PdfViewerControl.PopupMenuShowing.event)
+- [PopupMenuShowingEventArgs.Actions](https://documentation.devexpress.com/WPF/DevExpress.Xpf.PdfViewer.PopupMenuShowingEventArgs.Actions.property)
 
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
