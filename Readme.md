@@ -6,7 +6,9 @@
 <!-- default badges end -->
 # WPF PDF Viewer - Customize the Popup Menu
 
-This example customizes the page content popup menu - removes specific items and adds the "Save As…"  item. 
+This example customizes the page content popup menu - removes specific items and adds the "Save As…" item. 
+
+![image](https://github.com/user-attachments/assets/b2c43e5b-061f-4165-918f-37c627506eea)
 
 <!-- default file list -->
 ## Files to Look At
