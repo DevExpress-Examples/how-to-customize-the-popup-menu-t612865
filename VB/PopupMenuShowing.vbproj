@@ -25,7 +25,5 @@
     <PackageReference Include="DevExpress.Wpf.Printing" Version="24.2.*" />
     <PackageReference Include="DevExpress.Wpf.PdfViewer" Version="24.2.*" />
 	<PackageReference Include="DevExpress.Wpf.Themes.Office2016White" Version="24.2.*" />
-	<PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
-	<PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
   </ItemGroup>
 </Project>
