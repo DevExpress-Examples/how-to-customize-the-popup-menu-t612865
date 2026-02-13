@@ -20,7 +20,7 @@ This example customizes the page content popup menu - removes specific items and
 - [PopupMenuShowingEventArgs.Actions](https://documentation.devexpress.com/WPF/DevExpress.Xpf.PdfViewer.PopupMenuShowingEventArgs.Actions.property)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-pdf-viewer-customize-the-popup-menu&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-pdf-viewer-customize-the-popup-menu&~~~was_helpful=no)
 
